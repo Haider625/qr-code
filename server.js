@@ -3,7 +3,7 @@ const sharp = require('sharp');
 const path = require('path');
 
 // الرابط الذي تريد تحويله إلى رمز QR
-const url = ' https://zingy-gingersnap-91417c.netlify.app/';
+const url = 'url';
 
 // المسارات للصور
 const logoPath = path.join(__dirname, 'a.jpg'); // تأكد من وجود الصورة في المجلد
